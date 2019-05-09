@@ -1,10 +1,10 @@
 //meme is great
 
-var meme = 0;
-var sonic = 0;
+var meme = 98;
+var sonic = 10;
 
 if (meme != sonic){
-	meme += 1;
+	meme += 5;
 }
 
 
