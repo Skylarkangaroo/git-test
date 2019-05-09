@@ -6,7 +6,7 @@ var meme;
 var myself;
 
 if (heart.hasMeme()){
-	myself.isHappy();
+	myself.isNotHappy();
 }else{
-	myself.sadAF();
+	myself.sad();
 }
