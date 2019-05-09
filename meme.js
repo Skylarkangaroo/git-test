@@ -3,7 +3,7 @@
 var meme = 0;
 var sonic = 0;
 
-if (meme == sonic){
+if (meme != sonic){
 	meme += 1;
 }
 
